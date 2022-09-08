@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img height="75" src="https://img.icons8.com/fluency/344/internet.png"/>
 </a>
 
+
+<div style="background-color:blue;color:white;padding:20px;>
 <h5 align = center > ✣ABOUT ME✣
 
 CEO OF ZERO DEVELOPMENT
@@ -62,7 +64,7 @@ Currently-Progressing: 『"C++, Digital Marketing, iOS Development"』
 hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/Design"』
 
 </h5>
-
+</div>
 
 <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/06eafd3aa63e8d0d41ed08717d3905ef064e460b/github-contribution-grid-snake.svg"/>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
