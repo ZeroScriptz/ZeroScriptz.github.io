@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
   <h3> ✣ABOUT ME✣ </h3>
-<h5 align = center style="background-color:blue"; >
+<h5 align = center >
 CEO OF ZERO DEVELOPMENT
 name: Zack aka (ZERO)
 Location: Western United Stated
