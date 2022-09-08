@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   <img height="75" src="https://img.icons8.com/fluency/344/internet.png"/>
 </a>
 
-<h5> ✣ABOUT ME✣
- ```red
+<h5 align = center > ✣ABOUT ME✣
+
 CEO OF ZERO DEVELOPMENT
 name: Zack aka (ZERO)
 Location: Western United Stated
@@ -76,7 +76,6 @@ hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/De
 <img src="https://img.icons8.com/external-others-iconmarket/344/external-lua-file-types-others-iconmarket-2.png" alt="bash" width="75" height="75"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroscriptz&theme=nightowl&show_icons=true)
 <img height="200" width="200" src="https://i.imgur.com/g1rn3bz.png"/>
 <iframe src="https://github-readme-stats.vercel.app/api?username=zeroscriptz&theme=nightowl&show_icons=true" title="description"></iframe>
 
