@@ -78,6 +78,7 @@ hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/De
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroscriptz&theme=nightowl&show_icons=true)
 <img height="200" width="200" src="https://i.imgur.com/g1rn3bz.png"/>
+<iframe src="https://github-readme-stats.vercel.app/api?username=zeroscriptz&theme=nightowl&show_icons=true" title="description"></iframe>
 
 </div>
 
