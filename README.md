@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img height="75" src="https://img.icons8.com/fluency/344/internet.png"/>
 </a>
 
-<h0> ✣ABOUT ME✣
+<h5> ✣ABOUT ME✣
  ```red
 CEO OF ZERO DEVELOPMENT
 name: Zack aka (ZERO)
@@ -60,8 +60,8 @@ Technical-Background:
 Currently-Progressing: 『"C++, Digital Marketing, iOS Development"』  
 2022 Goals: 『"Provide & Create more Free and Paid Assets, Release our big NCRP project, further our development with Zero Development"』
 hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/Design"』
-</h0>
 
+</h5>
 
 
 <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/06eafd3aa63e8d0d41ed08717d3905ef064e460b/github-contribution-grid-snake.svg"/>
