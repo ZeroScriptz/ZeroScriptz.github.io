@@ -1,3 +1,12 @@
+.fstPage  {
+    background-image:url("https://i.imgur.com/pVqlLGi.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
+<div class="fstPage"></div>
+
 <div align="center">
   <b> ZERO DEVELOPMENT </b>
   </div>
